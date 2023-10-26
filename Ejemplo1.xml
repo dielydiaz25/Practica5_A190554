@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Ejemplo1.xsl"?>
+<Libros>
+    <Libro>
+        <Titulo>Boulevard</Titulo>
+        <Pais>España</Pais>
+        <Autor>Flor M. Salvador</Autor>
+    </Libro>
+    <Libro>
+        <Titulo>Te espero en el fin del mundo</Titulo>
+        <Pais>España</Pais>
+        <Autor>Andrea Longarela</Autor>
+    </Libro>
+    <Libro>
+        <Titulo>Romper el circulo</Titulo>
+        <Pais>México</Pais>
+        <Autor>Colleen Hoover</Autor>
+    </Libro>
+</Libros>
